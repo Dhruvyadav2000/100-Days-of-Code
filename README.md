@@ -31,6 +31,7 @@
 |   Name                         | DSA  |  GSOC  |
 | ---                            | ---  | ---    |
 | Kushagra Shekhawat             |YES   |YES     |
+| Dhruv Yadav                    |YES   |NO      | 
 > 100 Days of Code will start from 13/01/2020
 
 ---
